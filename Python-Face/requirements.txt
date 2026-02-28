@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+deepface
+tensorflow
+tf-keras
+keras
+pillow
+numpy
+python-multipart
+python-dotenv
+qdrant-client
